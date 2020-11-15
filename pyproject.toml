@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "machine_learning_studies"
+name = "nlp"
 version = "0.1.0"
 description = ""
-authors = ["LucasFDutra <lucasfelipedutra@gmail.com>"]
+authors = ["LucasFDutra"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
